@@ -5,7 +5,7 @@ html {
 }
 
 * {
-    margin: 0;
+    margin: auto;
     padding: 0;
     box-sizing: border-box;
   }
@@ -149,4 +149,5 @@ div img:hover {
 ::selection {
   background-color: rgb(250, 193, 39);
   color: black;
+
 }
